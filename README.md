@@ -2,8 +2,8 @@
 - 👀 I’m interested in building new technology things for the world...!
 - 🌱 I’m currently learning Computer Programming & Analyst at George Brown College
 - 💞️ I’m looking for an intership position in Full-Stack, Software developer or AI field and Data Analyst.
-- 📫 Email me: wynnetran2018@gmail.com, wynne.tran@georgebrown.ca
-- 🛰 LinkIn: https://www.linkedin.com/in/wynne-tran/
+- 📫 Email me: wynnetran2018@gmail.com
+- 🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran/
 - 🌈 Website: https://portfolio-wynne.herokuapp.com/
 - 💕💕💕 Updating...
 
