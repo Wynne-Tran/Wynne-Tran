@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wynne
 - 👀 I’m interested in building new technology things for the world...!
 - 🌱 I graduated Computer Programming & Analyst program at George Brown College
-- 💞️ I’m looking for an entry level Full-Stack/Mobile developer or AI field and Data Analyst.
+- 💞️ I’m looking for an entry level software developer
 - 📫 Email me: wynnetran2018@gmail.com
 - 🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran/
 - 🌈 Website: https://portfolio-wynne.herokuapp.com/
