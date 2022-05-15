@@ -1,5 +1,6 @@
- ![image](https://user-images.githubusercontent.com/63073395/168463728-085b602a-e975-446b-abf3-67f62a413bb1.png)
+![image](https://user-images.githubusercontent.com/63073395/168463799-b1d9d141-95af-42d8-98ab-7f493e27945b.png)
 
+ 
  # Me
  👋 Hi, I’m Wynne
  
