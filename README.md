@@ -15,7 +15,7 @@
  
  🚀 This improves the platform's throughput and finalization speed, allows sophisticated transactions, and ensures the finished product is mathematically      sound.
  
- ### :hammer_and_wrench: Languages and Tools :
+ # :hammer_and_wrench: Languages and Tools :
  
  <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
@@ -46,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heruko" alt="heruko" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="heruko" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="heruko" alt="heruko" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="heruko" alt="heruko" width="40" height="40"/>&nbsp;
 </div>
 
 # Contact
