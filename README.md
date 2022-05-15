@@ -1,5 +1,8 @@
+ ![image](https://user-images.githubusercontent.com/63073395/168463728-085b602a-e975-446b-abf3-67f62a413bb1.png)
+
  # Me
  👋 Hi, I’m Wynne
+ 
  👀 I’m interested in building the "next-generation" technology for the world...!
  
  # Experience
