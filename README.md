@@ -4,7 +4,7 @@
  # Me
  👋 Hi, I’m Wynne
  
- 👀 I’m interested in building the "next-generation" technology for the world...!
+ I am a software developer with industry experience building mobile applications. I specialize in JavaScript and OOP such as Java, having professional experience working with Java/Kotlin for the Android, and Swift/Objective C for iOS platforms. I also have experience working with React Native. 
  
  # Experience
  🚀 I am a junior Blockchain developer with experience that includes application development, customization and up-gradation support. 
