@@ -53,6 +53,10 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 </div>
 
+# Medium Published
+<img width="1280" alt="medium" src="https://user-images.githubusercontent.com/63073395/169713434-1066e225-5507-4f61-bf80-4845bd04f0c0.png">
+
+
 # Contact
 📫 Email me: wynnetran2018@gmail.com
 
