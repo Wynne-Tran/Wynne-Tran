@@ -58,7 +58,9 @@
 
 🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran/
 
-🌈 Website: https://portfolio-wynne.herokuapp.com/
+🌈 Portfolio: https://portfolio-wynne.herokuapp.com/
+
+📝 Medium: https://medium.com/@WynneTran/list/mobile-development-39171bad23a2
 
 💕💕💕 Updating...
 
