@@ -1,12 +1,12 @@
 ![image](https://user-images.githubusercontent.com/63073395/168463799-b1d9d141-95af-42d8-98ab-7f493e27945b.png)
 
  
- # Me
+ # 🤓 Me
  👋 Hi, I’m Wynne
  
  I am a software developer with industry experience building mobile applications. I specialize in JavaScript and OOP such as Java, having professional experience working with Java/Kotlin for the Android, and Swift/Objective C for iOS platforms. I also have experience working with React Native. 
  
- # Experience
+ # 📱 Experience
  🚀 I am a junior Blockchain developer with experience that includes application development, customization and up-gradation support. 
  
  🚀 Experience in developing Blockchain applications that add smart contracts, improve cryptographic efficiency with aggregable signatures under the BLS        signature scheme. 
@@ -53,11 +53,11 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 </div>
 
-# Medium Published
+# 👏 Medium Published
 <img width="1280" alt="medium" src="https://user-images.githubusercontent.com/63073395/169713434-1066e225-5507-4f61-bf80-4845bd04f0c0.png">
 
 
-# Contact
+# 🪐 Contact
 📫 Email me: wynnetran2018@gmail.com
 
 🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran/
