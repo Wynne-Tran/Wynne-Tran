@@ -56,7 +56,8 @@
 # 👏 Medium Published
 <img width="1280" alt="medium" src="https://user-images.githubusercontent.com/63073395/169713434-1066e225-5507-4f61-bf80-4845bd04f0c0.png">
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wynne-tran" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/wynne-tran?trk=profile-badge">Wynne T.</a></div>
+              
 # 🪐 Contact
 📫 Email me: wynnetran2018@gmail.com
 
