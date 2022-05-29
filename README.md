@@ -60,11 +60,11 @@
 # 🪐 Contact
 📫 Email me: wynnetran2018@gmail.com
 
-🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran/
+🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran
 
-🌈 Portfolio: https://portfolio-wynne.herokuapp.com/
+🌈 Portfolio: https://portfolio-wynne.herokuapp.com
 
-📝 Medium: https://medium.com/@WynneTran/list/mobile-development-39171bad23a2
+📝 Medium: https://medium.com/@WynneTran
 
 💕💕💕 Updating...
 
