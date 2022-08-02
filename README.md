@@ -54,8 +54,8 @@
 </div>
 
 # 👏 Medium Published
-<img width="1280" alt="medium" src="https://user-images.githubusercontent.com/63073395/169713434-1066e225-5507-4f61-bf80-4845bd04f0c0.png">
 
+<img width="1280" alt="Screen Shot 2022-08-02 at 12 01 02" src="https://user-images.githubusercontent.com/63073395/182420068-8a7bb50a-e4f5-4e96-8fa1-975c613c8fbb.png">
 
               
 # 🪐 Contact
