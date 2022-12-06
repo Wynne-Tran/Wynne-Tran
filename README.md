@@ -63,7 +63,7 @@
 
 🛰 LinkedIn: https://www.linkedin.com/in/wynne-tran
 
-🌈 Portfolio: [https://portfolio-wynne.herokuapp.com](https://wynne-tran.netlify.app/)
+🌈 Portfolio: [https://wynne-tran.netlify.app](https://wynne-tran.netlify.app/)
 
 📝 Medium: https://medium.com/@WynneTran
 
