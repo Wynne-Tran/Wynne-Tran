@@ -6,15 +6,6 @@
  
  I am a software developer with industry experience building mobile applications, specializing in Java/Kotlin for Android, Swift/ObjectiveC for iOS as well as React Native.
  
- # 📱 Experience
- 🚀 I am a junior Blockchain developer with experience that includes application development, customization and up-gradation support. 
- 
- 🚀 Experience in developing Blockchain applications that add smart contracts, improve cryptographic efficiency with aggregable signatures under the BLS        signature scheme. 
- 
- 🚀 Identifying a roadmap to a Quantum Resistant aggregable signatures, and mathematically proving the safety and liveness properties of the extended          system using TLA+ proofs. 
- 
- 🚀 This improves the platform's throughput and finalization speed, allows sophisticated transactions, and ensures the finished product is mathematically      sound.
- 
  # :hammer_and_wrench: Languages and Tools :
  
  <div>
