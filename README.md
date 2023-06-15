@@ -4,7 +4,8 @@
  # 🤓 Me
  👋 Hi, I’m Wynne
  
- I am a skilled software developer with a strong background in mobile application development. My expertise lies in building robust and user-friendly mobile apps using various technologies. I have extensive experience in Java and Kotlin for Android development, as well as Swift and Objective-C for iOS development. Additionally, I am proficient in React Native, which allows me to create cross-platform applications efficiently. With a passion for delivering high-quality solutions, I continuously stay updated with the latest industry trends and best practices. I am committed to creating innovative and impactful mobile experiences that meet the needs of users and drive business success.
+
+The majority of my work involves the development of robust and user-friendly mobile apps using Java, Kotlin, Swift, Objective-C, and React Native. My passion is creating innovative and impactful mobile experiences that meet customer needs and drive business growth.
  
  # :hammer_and_wrench: Languages and Tools :
  
