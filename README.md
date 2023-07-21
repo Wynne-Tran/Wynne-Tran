@@ -59,6 +59,14 @@ The majority of my work involves the development of robust and user-friendly mob
 
 📝 Medium: https://medium.com/@WynneTran
 
+🪙 Buy me a drink  🍶 🫖 🍹 🧋
+```
+0x14940b6162Ca0B8278CdFBaDFdE3A4506F4A16C4
+```
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <img src="https://i.ibb.co/NNM6R18/Untitled.png" width="300" style="padding-left:200px" />
+
+
+
 💕💕💕 Updating...
 
 <!---
