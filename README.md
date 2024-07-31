@@ -47,7 +47,8 @@ The majority of my work involves the development of robust and user-friendly mob
 
 # 👏 Medium Published
 
-<img width="1280" alt="Screen Shot 2022-08-02 at 12 01 02" src="https://user-images.githubusercontent.com/63073395/182420068-8a7bb50a-e4f5-4e96-8fa1-975c613c8fbb.png">
+<img width="1251" alt="Screenshot 2024-07-31 at 4 48 19 PM" src="https://github.com/user-attachments/assets/dae28371-150e-4fd7-a3be-c1cff8cd1dd5">
+
 
               
 # 🪐 Contact
